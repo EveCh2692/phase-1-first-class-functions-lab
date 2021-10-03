@@ -1,1 +1,3 @@
-// Code your solution in this file!
+const returnFirstTwoDrivers = function([Sally, Bob, Freddy, Claudia]){
+return Sally, Bob
+}
